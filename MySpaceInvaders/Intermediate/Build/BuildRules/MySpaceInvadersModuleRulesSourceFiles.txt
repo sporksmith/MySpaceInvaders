@@ -1,0 +1,3 @@
+C:\Users\n\Documents\MySpaceInvaders\MySpaceInvaders\Source\MySpaceInvaders\MySpaceInvaders.Build.cs
+C:\Users\n\Documents\MySpaceInvaders\MySpaceInvaders\Source\MySpaceInvaders.Target.cs
+C:\Users\n\Documents\MySpaceInvaders\MySpaceInvaders\Source\MySpaceInvadersEditor.Target.cs

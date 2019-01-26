@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MySpaceInvaders.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\n\Documents\MySpaceInvaders\MySpaceInvaders\Intermediate\Build\Win64\MySpaceInvadersEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\n\Documents\MySpaceInvaders\MySpaceInvaders\Intermediate\Build\Win64\UE4Editor\Development\MySpaceInvaders\MySpaceInvaders.cpp.obj"
+"C:\Users\n\Documents\MySpaceInvaders\MySpaceInvaders\Intermediate\Build\Win64\UE4Editor\Development\MySpaceInvaders\MySpaceInvadersCharacter.cpp.obj"
+"C:\Users\n\Documents\MySpaceInvaders\MySpaceInvaders\Intermediate\Build\Win64\UE4Editor\Development\MySpaceInvaders\MySpaceInvadersGameMode.cpp.obj"
+"C:\Users\n\Documents\MySpaceInvaders\MySpaceInvaders\Intermediate\Build\Win64\UE4Editor\Development\MySpaceInvaders\MySpaceInvaders.init.gen.cpp.obj"
+"C:\Users\n\Documents\MySpaceInvaders\MySpaceInvaders\Intermediate\Build\Win64\UE4Editor\Development\MySpaceInvaders\MySpaceInvadersCharacter.gen.cpp.obj"
+"C:\Users\n\Documents\MySpaceInvaders\MySpaceInvaders\Intermediate\Build\Win64\UE4Editor\Development\MySpaceInvaders\MySpaceInvadersGameMode.gen.cpp.obj"
+"C:\Users\n\Documents\MySpaceInvaders\MySpaceInvaders\Intermediate\Build\Win64\UE4Editor\Development\MySpaceInvaders\PCLaunch.rc.res"
+/OUT:"C:\Users\n\Documents\MySpaceInvaders\MySpaceInvaders\Intermediate\Build\Win64\UE4Editor\Development\MySpaceInvaders\UE4Editor-MySpaceInvaders.lib"
